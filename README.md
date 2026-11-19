@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/amit-logo.jpg" width="180" alt="Kibriya Amit Logo" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090810,45:51218F,75:8B4DE8,100:FFAC45&height=180&section=header&text=KIBRIYA%20AMIT&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Junior%20Full-Stack%20Web%20Developer&descAlignY=62&descSize=17" width="100%" />
 
